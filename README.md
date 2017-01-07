@@ -1,5 +1,5 @@
 # ML-nanodegree
-My projects created as part of my udacity nanodegree in machine learning.
+My projects created as part of my udacity nanodegree in machine learning.  
 Project 0 is about the titanic survival analysis.
 Project 1 is about applying regression techniques to predict house prices in Boston.
 Project 2 is about applying classification techniques to for student intervention decision.
