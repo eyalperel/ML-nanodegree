@@ -12,5 +12,5 @@ It deals with the classification problem of market direction (up or down),for di
 EURGBP currency pair using multiple techinques and comparing them to a benchmark accuracy result with in turn is based on random walk.  
 In the folder my final report and the notebook in which I developed my code are to be found.  
   
-It is important to note that the data is not public so in case there is an interest running the project please send me an email, and I  
-will be happy to provide a zip file with the data and code.
+It is important to note that the data is not public so in case there is an interest running the project please send me an email,  
+and I will be happy to provide a zip file with the data and code.
