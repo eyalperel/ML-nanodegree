@@ -1,4 +1,4 @@
-# Projects
+# ML nanodegree projects
 Projects created as part of my udacity nanodegree in machine learning.  
 *Titanic Survival Exploration* is about the titanic pasanger survival analysis and exploration.  
 *Boston Housing* is about applying regression techniques to predict house prices in Boston.  
