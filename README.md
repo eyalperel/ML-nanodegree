@@ -8,8 +8,8 @@ Projects created as part of my udacity nanodegree in machine learning.
 This project can be found in the samrtcab folder in which my code is in the file agent.py and the setting of the simulation  
 is to be found in the other files for completeness purposes.  
 *Forex Market Predictor* is my capstone project.  
-It deals with the classification problem of market direction (up or down),for different prediction intervals for the EURGBP currency pair  
-using multiple techinques and comparing them to a benchmark accuracy result with in turn is based on random walk.  
+It deals with the classification problem of market direction (up or down),for different prediction intervals for the  
+EURGBP currency pair using multiple techinques and comparing them to a benchmark accuracy result with in turn is based on random walk.  
 In the folder my final report and the notebook in which I developed my code are to be found.  
   
 It is important to note that the data is not public so in case there is an interest running the project please send me an email, and I  
